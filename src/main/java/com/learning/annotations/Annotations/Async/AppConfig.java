@@ -96,7 +96,6 @@ public class AppConfig implements AsyncConfigurer{
         }
     }
 
-
 }
 
 @Component

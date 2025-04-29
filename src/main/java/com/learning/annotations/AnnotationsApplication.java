@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 
 @SpringBootApplication
 @EnableAsync
-@ComponentScan("com.learning.annotations.Annotations.Async")
+@ComponentScan("com.learning.annotations.Annotations.Interceptors")
 public class AnnotationsApplication {
 
 	public static void main(String[] args) {
