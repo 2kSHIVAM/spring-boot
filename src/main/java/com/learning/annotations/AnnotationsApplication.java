@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 
 @SpringBootApplication
 @EnableAsync
-@ComponentScan("com.learning.annotations.Annotations.Hateoas")
+@ComponentScan("com.learning.annotations.Annotations.JPA_PART1")
 public class AnnotationsApplication {
 
 	public static void main(String[] args) {
